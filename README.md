@@ -1,4 +1,4 @@
 # apnacollege-demo
 THIS IS  MY FIRST REPOSITORY
 <br>
-Author - Samir Khanal
+Author - Samir (mycollege is xyz)
